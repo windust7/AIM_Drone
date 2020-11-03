@@ -3,7 +3,7 @@
   
   10월 30일: 드론 주문 완료(1,427,700원) -> http://www.gameplusedu.com/shop/goods/goods_view.php?goodsno=2088&category=021001
   
-  11월 3일: 드론 
+  11월 3일: 드론 도착
   
   11월 27일: 월간활동보고서 제출(Due 3:00pm)
   
