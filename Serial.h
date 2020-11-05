@@ -24,4 +24,8 @@ void    UartSendData(uint8_t port);
 
 void SerialWrite16(uint8_t port, int16_t val);
 
+<<<<<<< Updated upstream
 #endif /* SERIAL_H_ */
+=======
+#endif /* SERIAL_H_ */
+>>>>>>> Stashed changes
