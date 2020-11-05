@@ -67,4 +67,8 @@ void i2c_read_reg_to_buf(uint8_t add, uint8_t reg, uint8_t *buf, uint8_t size);
   #define GYRO_SCALE (1.0f/200e6f)
 #endif
 
+<<<<<<< Updated upstream
 #endif /* SENSORS_H_ */
+=======
+#endif /* SENSORS_H_ */
+>>>>>>> Stashed changes
