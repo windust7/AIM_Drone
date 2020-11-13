@@ -95,8 +95,6 @@ while True:
     # 비최대 억제(Non Maximnum Supression -> boxes의 box들 중에 confThreshold보다 큰 것들 중에 nmsThreshold(box들이 겹쳐있는 비율)보다 큰 box들 중에 confidence가 가장 큰 것)
     indices = cv2.dnn.NMSBoxes(boxes, confidences, confThreshold, nmsThreshold) # 몇번쨰 box를 쓸건지 index 정보 반환(N행 1열?)
 
-    print(indices, '\n\n')
-
     for i in indices:
         i = i[0]
         sx, sy, bw, bh = boxes[i]
