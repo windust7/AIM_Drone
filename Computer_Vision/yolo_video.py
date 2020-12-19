@@ -29,7 +29,7 @@ layer_names = net.getLayerNames()
 output_layers = [layer_names[i[0] - 1] for i in net.getUnconnectedOutLayers()]
 # output_layers = ['yolo_82', 'yolo_94', 'yolo_106']
 
-cap = cv2.VideoCapture('20201112_235200.mp4')
+cap = cv2.VideoCapture('20201112_235408.mp4')
 
 if not cap.isOpened():
     print("Video open failed!")
