@@ -7,4 +7,19 @@
   
   11월 27일: 월간활동보고서 제출(Due 3:00pm)
   
+  12월 21일: 보고서 제출
+  
   12월 28일: 학생경진대회 및 성과발표회, 중간결과보고서 제출(2:00 pm, 백양누리)
+
+
+
+# Computer Vision
+
+## Requirements
+  Python 3.7.9, numpy and opencv-contrib-python package
+  
+  to install opencv: 
+  
+    clone Computer Vision folder
+    
+    pip install -r requiremetns.txt
