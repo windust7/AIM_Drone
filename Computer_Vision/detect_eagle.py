@@ -11,7 +11,7 @@ resized_h = 400
 model = 'yolo_v3/yolov3.weights'
 config = 'yolo_v3/yolov3.cfg'
 
-#https://github.com/pjreddie/darknet/blob/master/data/coco.names
+# https://github.com/pjreddie/darknet/blob/master/data/coco.names
 class_labels = 'yolo_v3/coco.names'
 
 confThreshold = 0.5
