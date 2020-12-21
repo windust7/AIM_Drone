@@ -23,6 +23,6 @@
     pip install -r requiremetns.txt
 
 
-## Multiwii requirements
+# Multiwii requirements
 Multiwii source code 아두이노 보드에 업로드 후 multiwiiconf.exe파일로 캘리브레이션 진행
 
