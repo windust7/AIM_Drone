@@ -20,4 +20,4 @@
   
   to install opencv, clone Computer Vision folder and install below
     
-    pip install -r requiremetns.txt
+    pip install -r requirements.txt
