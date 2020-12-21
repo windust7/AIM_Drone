@@ -19,12 +19,10 @@
   Python 3.7.9, numpy and opencv-contrib-python package
   
   to install opencv, clone Computer_Vision folder and install below
-    
-<<<<<<< HEAD
+
     pip install -r requiremetns.txt
 
-##
+
+## Multiwii requirements
 Multiwii source code 아두이노 보드에 업로드 후 multiwiiconf.exe파일로 캘리브레이션 진행
-=======
-    pip install -r requirements.txt
->>>>>>> d975717e6955cfb02592b2dd8a35c10ca8f755ad
+
