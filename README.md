@@ -18,6 +18,6 @@
 ## Requirements
   Python 3.7.9, numpy and opencv-contrib-python package
   
-  to install opencv, clone Computer Vision folder and install below
+  to install opencv, clone Computer_Vision folder and install below
     
     pip install -r requirements.txt
