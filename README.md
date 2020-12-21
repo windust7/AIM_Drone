@@ -21,3 +21,6 @@
   to install opencv, clone Computer Vision folder and install below
     
     pip install -r requiremetns.txt
+
+##
+Multiwii source code 아두이노 보드에 업로드 후 multiwiiconf.exe파일로 캘리브레이션 진행
