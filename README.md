@@ -30,6 +30,8 @@
 
 
 ## Contributor
-* [최창현](https://github.com/windust7)
+* [정귀영](https://github.com/jky3509)
+
+
 Multiwii source code 아두이노 보드에 업로드 후 multiwiiconf.exe파일로 캘리브레이션 진행
 
