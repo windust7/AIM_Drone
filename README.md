@@ -15,6 +15,8 @@
 
 # Computer Vision
 
+## [최창현] https://github.com/windust7
+
 ## Requirements
   Python 3.7.9, numpy and opencv-contrib-python package
   
@@ -24,5 +26,7 @@
 
 
 # Multiwii requirements
+
+## [정귀영]
 Multiwii source code 아두이노 보드에 업로드 후 multiwiiconf.exe파일로 캘리브레이션 진행
 
